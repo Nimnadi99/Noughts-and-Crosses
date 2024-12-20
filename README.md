@@ -32,17 +32,17 @@
 <h3>📸 Screenshots</h3>
 <div style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="flex: 1;">
-    <img src="https://github.com/Nimnadi99/Noughts-and-Crosses/blob/main/a.png" alt="Screenshot 1" style="width: 30%; max-width: 300px;">
+    <img src="https://github.com/Nimnadi99/Noughts-and-Crosses/blob/master/a.png" alt="Screenshot 1" style="width: 30%; max-width: 300px;">
     <p>*Game in Progress*</p>
   </div>
 
   <div style="flex: 1;">
-    <img src="https://github.com/Nimnadi99/Noughts-and-Crosses/blob/main/b.png" alt="Screenshot 2" style="width: 30%; max-width: 300px;">
+    <img src="https://github.com/Nimnadi99/Noughts-and-Crosses/blob/master/b.png" alt="Screenshot 2" style="width: 30%; max-width: 300px;">
     <p>*Main Game Screen*</p>
   </div>
 
   <div style="flex: 1;">
-    <img src="https://github.com/Nimnadi99/Noughts-and-Crosses/blob/main/c.png" alt="Screenshot 3" style="width: 30%; max-width: 300px;">
+    <img src="https://github.com/Nimnadi99/Noughts-and-Crosses/blob/master/c.png" alt="Screenshot 3" style="width: 30%; max-width: 300px;">
     <p>*New Game Option*</p>
   </div>
 </div>
